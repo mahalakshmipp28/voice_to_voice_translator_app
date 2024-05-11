@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146317811062",
+    "project_id": "voicetranslatorapp-6cafd",
+    "storage_bucket": "voicetranslatorapp-6cafd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146317811062:android:01d9c27e7f98f030bbee57",
+        "android_client_info": {
+          "package_name": "com.example.voicetranslatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146317811062-rg5i1bu786rdljlf1t8jb7h8sgvura8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT5hlaukuVhqBWuzYZaA2xk7TEaSM7pGE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146317811062-rg5i1bu786rdljlf1t8jb7h8sgvura8d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
